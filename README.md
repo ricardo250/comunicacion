@@ -1,2 +1,0 @@
-# comunicacion
-prueba1
